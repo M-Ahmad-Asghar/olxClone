@@ -1,0 +1,16 @@
+.priceTag{
+    align-content: left;
+    display: flex;
+    color: #2c5256;
+    
+}
+.title{
+    align-content: left;
+    display: flex;
+    color: #61797d;
+}
+.city{
+    align-self: flex-end;
+    display: flex;
+    color: #61797d;
+}

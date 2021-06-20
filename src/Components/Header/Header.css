@@ -1,0 +1,41 @@
+.navbarBg{
+    background-color: #f7f8f8;
+    padding-top: 15px;
+   
+}
+#searchicon{
+    font-size: 45px ;
+    background-color: #002f34;
+    color: white;
+    border-top-right-radius:5px ;
+    border-bottom-right-radius:5px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+:hover #searchicon{
+    font-size: 45px ;
+    background-color: #002f34;
+    color: white;
+    border-top-right-radius:5px ;
+    border-bottom-right-radius:5px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+.dpfl{
+    display: flex;
+}
+#catagories{
+}
+#logintxt{
+    text-decoration: underline;
+    color: #002f34;
+    padding-top: 10px;
+}
+#allCtg{
+    font-weight: bold;
+    display: flex;
+}
+#expndMore{
+    font-size: 30px;
+}

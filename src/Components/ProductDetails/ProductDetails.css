@@ -1,0 +1,28 @@
+#crousel{
+    margin: 100px ;
+}
+#cvc{
+    height: 500px;
+    display: flex;
+    background-color: black;
+    align-items: center;
+}
+#cvc img{
+   width: 1000px ;
+   max-height: 490px;
+}
+#crdAction{
+   display: flex;
+   justify-content: flex-end;
+}
+.crdhd{
+    flex: 1;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#dtlhd{
+    align-self: flex-start;
+}
+#dtlcnt{
+    display: flex;
+}

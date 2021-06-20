@@ -1,0 +1,8 @@
+#recAdsContnr{
+    background-color: #ebeeef;
+    overflow: auto;
+    white-space: nowrap;
+}
+.crd{
+    display: inline-block;
+}
